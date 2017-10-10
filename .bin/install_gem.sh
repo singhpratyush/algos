@@ -1,3 +1,3 @@
 #!/bin/bash
 sudo gem update --system
-sudo gem install -Ur gem-requirements.txt
+sudo gem install -r gem-requirements.txt
